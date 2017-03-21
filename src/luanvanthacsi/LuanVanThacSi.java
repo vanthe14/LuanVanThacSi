@@ -5,6 +5,16 @@
  */
 package luanvanthacsi;
 
+import JVnSegmenter.Dictionary;
+import JVnSegmenter.FeatureGen;
+import JVnSegmenter.JVnSegmenter;
+import JVnSegmenter.Maps;
+import JVnSegmenter.Model;
+import JVnSegmenter.Option;
+import JVnSegmenter.TaggingInputData;
+import JVnSegmenter.Viterbi;
+import java.io.*;
+
 /**
  *
  * @author VanThe
@@ -14,10 +24,11 @@ public class LuanVanThacSi {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        int a;
-        a=10;
-    }
+      
+/*main method for using this tool from command line
+ */        
+    public static void main(String[] args){
+      
+    } // end of the main method
     
-}
+ }

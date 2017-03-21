@@ -17,7 +17,7 @@ import java.util.*;
 public class Dictionary {
     public Map dict = null;			// map between context predicate and element
     
-    Dictionary() {
+    public void Dictionary() {
 	dict = new HashMap();
     }
     
