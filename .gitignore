@@ -1,2 +1,5 @@
 /dist/
 /nbproject/private/
+/build/
+/JVnSegmenter/dist/
+/JVnSegmenter/nbproject/private/
